@@ -2,7 +2,7 @@
 
 light docker image for utility and adaptability
 
-### Knowlegable Repository
+### Knowledgeable Repository
 
 https://github.com/Algorithm-Model-Research/PwnVPN
 
