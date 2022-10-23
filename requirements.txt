@@ -1,0 +1,13 @@
+# Recomandation for library to install in python
+
+setuptools
+pandas 
+requests
+python-math
+os.path2
+pydicom
+glob2
+pytest-shutil
+zipfile36
+urllib3
+numpy
