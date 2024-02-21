@@ -44,4 +44,8 @@ light docker image for utility and adaptability
 - Wpscan 
 - Uniscan 
 - Lsof 
-- Apktool 
+- Apktool
+
+
+# Author & Maintainer
+- Ronaldson Bellande
